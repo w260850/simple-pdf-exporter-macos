@@ -10,3 +10,5 @@ Word 文档由本机 Pages 直接导出，以保留字体、表格与分页。�
 运行 `./build-app.sh` 构建，应用位于 `dist/简易PDF导出工具.app`。
 
 运行 `./build-dmg.sh` 制作同事可安装的 DMG，输出位于 `dist/简易PDF导出工具-1.1.dmg`。
+
+<img src="界面截图.png" alt="应用界面" width="720">
