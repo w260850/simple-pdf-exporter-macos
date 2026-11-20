@@ -1,6 +1,6 @@
 # 简易 PDF 导出工具
 
-完全本地运行的 macOS 应用。拖入文件后，PDF 自动保存到源文件所在目录。
+`simple-pdf-exporter-macos` 是一款完全本地运行的 macOS 简易 PDF 导出工具。拖入文件后，PDF 自动保存到源文件所在目录。
 
 主要支持 Word 文档（DOCX，也兼容 DOC、ODT），另支持图片（PNG/JPG/HEIC/TIFF/GIF/BMP）、TXT、Markdown、CSV、HTML、RTF 和 PDF。
 若目标文件已存在，会自动使用 `-2`、`-3` 后缀，绝不覆盖原文件。
