@@ -1,0 +1,8 @@
+.DS_Store
+.build/
+dist/*
+!dist/*.dmg
+Tests/*.pdf
+Tests/*.docx
+Tests/*.html
+Tests/*.rtf
